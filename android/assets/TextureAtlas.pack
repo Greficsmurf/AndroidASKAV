@@ -1,0 +1,19 @@
+TextureImage.png
+size: 642, 93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alarm
+  rotate: false
+  xy: 0, 0
+  size: 321, 93
+  orig: 321, 93
+  offset: 0, 0
+  index: -1
+noalarm
+  rotate: false
+  xy: 321, 0
+  size: 321, 93
+  orig: 321, 93
+  offset: 0, 0
+  index: -1
